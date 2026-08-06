@@ -1,9 +1,9 @@
 ## 👋 Hi, I'm Md Jakaria
 
-### 🚀 PROFILE SUMMARY
-Visionary technology executive with over 16+ years of experience **leading enterprise software development**, **cloud transformation**, **DevOps modernization**, and **digital innovation**. Proven expertise in architecting scalable, secure, and high-performance enterprise applications while aligning technology strategy with business objectives.
+### 🚀 Profile Summary
+Visionary technology executive with over 16 years of experience **Leading Enterprise Software Development**, **cloud transformation**, **DevOps Modernization**, and **Digital Innovation**. Proven expertise in Architecting scalable, secure, and high-performance enterprise applications while aligning technology strategy with business objectives.
 
-Experienced in building cloud-native platforms on **AWS**, **designing enterprise microservices** architectures, implementing DevOps and **Infrastructure as Code (IaC)**, and leading engineering organizations delivering mission-critical solutions.
+Experienced in building cloud-native platforms on **AWS**, **Designing Enterprise Microservices** architectures, implementing DevOps and **Infrastructure as Code (IaC)**, and leading engineering organizations delivering mission-critical solutions.
 
 Passionate about **Artificial Intelligence**, **Generative AI**, **MLOps**, cloud computing, automation, and digital transformation, with a strong ability to build high-performing engineering teams and establish technology roadmaps that accelerate business growth.
 
@@ -31,6 +31,17 @@ Passionate about **Artificial Intelligence**, **Generative AI**, **MLOps**, clou
 - Technology Strategy & Digital Transformation
 - Team Mentoring, Technical Guidance, Incident Management, Root Cause Analysis.
 
+### 🎓 Education & Qualifications
+
+| **Degree** | **Institution** | **Location** | **Period** | **Status** |
+|------------|-----------------|--------------|------------|------------|
+| 🎓 **B.Sc. in Electronics & Telecommunication Engineering** | Rajshahi University of Engineering & Technology | 🇧🇩 Kazla, Rajshahi | 📅 Jan 2006 - Apr 2010 | ✅ Graduated |
+| 🎯 **MBA (Finance & Banking)** | University of Rajshahi | 🇧🇩 Rajshahi, Bangladesh | 📅 Mar 2012 - May 2014 | ✅ Graduated |
+
+#### 📌 Education Highlights
+- **First Degree:** Engineering (Electronics & Telecommunication)
+- **Second Degree:** Business Administration (Finance & Banking)
+- **Combined Expertise:** Technical + Management background
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakir-ruet&show_icons=true)
