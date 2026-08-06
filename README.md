@@ -1,17 +1,23 @@
-## 👋 Hi, I'm
+## 👋 Hi, I'm Md Jakaria
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Md%20Jakaria&fontSize=50&fontAlignY=35&animation=twinkling&desc=IT%20Manager%20%7C%20Enterprise%20Architect&descAlignY=55" width="100%"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&random=false&width=800&lines=Enterprise+%26+Solution+Architect;DevOps+%26+DevSecOps+Expert;AWS+Certified+Professional;Kubernetes+%7C+Java+%7C+Oracle+23ai;16%2B+Years+of+Digital+Transformation" alt="Typing SVG" />
-</p>
+</p> -->
 
 <p align="left">
-  <img src="https://img.shields.io/badge/16%2B_Years_Experience-2E86C1?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  <!-- Leadership Roles -->
+  <img src="https://img.shields.io/badge/IT_Manager-2E86C1?style=for-the-badge&logo=none&logoColor=white" />
+  <img src="https://img.shields.io/badge/Enterprise_Architect-6C2BD9?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solution_Architect-8B008B?style=for-the-badge&logo=diagram&logoColor=white" />
+  <!-- Technical Expertise -->
   <img src="https://img.shields.io/badge/Cloud_Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=shield&logoColor=white" />
   <img src="https://img.shields.io/badge/DevOps_Leader-006400?style=for-the-badge&logo=devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevSecOps-2E8B57?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Enthusiast-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
 </p>
 
@@ -93,4 +99,4 @@ Passionate about **Artificial Intelligence**, **Generative AI**, **MLOps**, clou
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/jakir-ruet/)
-- [X (Twitter)](https://x.com/ruet_jakir)
+- [X](https://x.com/ruet_jakir)
