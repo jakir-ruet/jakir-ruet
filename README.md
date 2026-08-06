@@ -43,8 +43,14 @@ Passionate about **Artificial Intelligence**, **Generative AI**, **MLOps**, clou
 - **Second Degree:** Business Administration (Finance & Banking)
 - **Combined Expertise:** Technical + Management background
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakir-ruet&show_icons=true)
+## 📊 GitHub Analytics
+
+| <!-- --> | <!-- --> |
+|----------|----------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakir-ruet&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakir-ruet&theme=radical&hide_border=true&layout=compact&langs_count=8) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jakir-ruet&theme=radical&hide_border=true) | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jakir-ruet&theme=radical&no-frame=true&row=2&column=2) |
+
+---
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jakir-ruet/)
