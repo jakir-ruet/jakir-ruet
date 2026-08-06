@@ -83,7 +83,7 @@ Passionate about **Artificial Intelligence**, **Generative AI**, **MLOps**, clou
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Public_Repos-6-2ea44f?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Public_Repos-47-2ea44f?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Followers-10+-purple?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Member_Since-2018-orange?style=for-the-badge&logo=github" />
 </p>
