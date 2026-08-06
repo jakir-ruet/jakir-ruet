@@ -29,7 +29,7 @@ Experienced in building cloud-native platforms on **AWS**, **Designing Enterpris
 
 Passionate about **Artificial Intelligence**, **Generative AI**, **MLOps**, cloud computing, automation, and digital transformation, with a strong ability to build high-performing engineering teams and establish technology roadmaps that accelerate business growth.
 
-### 🔧 TECHNICAL CORE COMPETENCIES
+### 🔧 Core Competencies
 
 - Enterprise Architecture & Solution Design
 - Core Java, Object-Oriented Programming (OOP), Design Patterns
