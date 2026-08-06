@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Md Jakaria
+## 👋 Hi, I'm
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Md%20Jakaria&fontSize=50&fontAlignY=35&animation=twinkling&desc=IT%20Manager%20%7C%20Enterprise%20Architect&descAlignY=55" width="100%"/>
