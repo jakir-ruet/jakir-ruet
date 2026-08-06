@@ -35,8 +35,8 @@ Passionate about **Artificial Intelligence**, **Generative AI**, **MLOps**, clou
 
 | **Degree** | **Institution** | **Location** | **Period** | **Status** |
 |------------|-----------------|--------------|------------|------------|
-| 🎓 **B.Sc. in Electronics & Telecommunication Engineering** | Rajshahi University of Engineering & Technology | 🇧🇩 Kazla, Rajshahi | 📅 Jan 2006 - Apr 2010 | ✅ Graduated |
-| 🎯 **MBA (Finance & Banking)** | University of Rajshahi | 🇧🇩 Rajshahi, Bangladesh | 📅 Mar 2012 - May 2014 | ✅ Graduated |
+| **B.Sc. in Electronics & Telecommunication Engineering** | Rajshahi University of Engineering & Technology | Kazla, Rajshahi | Jan 2006 - Apr 2010 | Graduated |
+| **MBA (Finance & Banking)** | University of Rajshahi | Rajshahi, Bangladesh | Mar 2012 - May 2014 | Graduated |
 
 #### 📌 Education Highlights
 - **First Degree:** Engineering (Electronics & Telecommunication)
