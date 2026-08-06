@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&random=false&width=800&lines=Enterprise+%26+Solution+Architect;DevOps+%26+DevSecOps+Expert;AWS+Certified+Professional;Kubernetes+%7C+Java+%7C+Oracle+23ai;16%2B+Years+of+Digital+Transformation" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/16%2B_Years_Experience-2E86C1?style=for-the-badge&logo=read-the-docs&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud_Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/DevOps_Leader-006400?style=for-the-badge&logo=devops&logoColor=white" />
