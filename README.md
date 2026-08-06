@@ -91,4 +91,4 @@ Passionate about **Artificial Intelligence**, **Generative AI**, **MLOps**, clou
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/jakir-ruet/)
-- [X](https://x.com/ruet_jakir)
+- [X (Twitter)](https://x.com/ruet_jakir)
